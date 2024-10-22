@@ -1,0 +1,11 @@
+# ignore folders
+/node_modules
+
+# ignore specific files
+# label.zpl
+findPrinterCode.js
+
+# ignore all files with the following extentions
+*.ZPL
+*.txt
+*.json
