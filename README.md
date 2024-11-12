@@ -62,8 +62,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 - Run in a normal chrome window.  Puppeteer runs in the developer mode.  
 - There is an error because the Plex plugin isn't detected. Even though this setup works there is always an error.  Since we are already in the Developer Mode there should be a way to suppress the error.
 
-- Notes
-    Ensure that your printer is compatible with ZPL.
-    Check the printer’s documentation for any specific instructions or configurations needed for printing.
-    You may need to configure your printer settings to accept ZPL commands.
-    By following these steps, you should be able to print your ZPL file successfully! If you have any specific issues or errors while printing, feel free to ask for help!
+Notes:
+
+- Ensure that your printer is compatible with ZPL.
+- Check the printer’s documentation for any specific instructions or configurations needed for printing.
+- You may need to configure your printer settings to accept ZPL commands.
+
+By following these steps, you should be able to print your ZPL file successfully! If you have any specific issues or errors while printing, feel free to ask for help! I'm learning with this as well.
