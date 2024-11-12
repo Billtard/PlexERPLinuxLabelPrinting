@@ -2,7 +2,7 @@
 /node_modules
 
 # ignore specific files
-# label.zpl
+label.zpl
 findPrinterCode.js
 
 # ignore all files with the following extentions
