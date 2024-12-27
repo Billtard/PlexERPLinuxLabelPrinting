@@ -16,8 +16,7 @@ pip install fs
 ## Running the puppeteer script.
 
 Download the two python scripts in this repo.
-    - findPrinterCode_label_file.js
-    - printzpl.py
+    findPrinterCode_label_file.js & printzpl.py
 Save these file to a directory/location of your liking.  
 Open a terminal program and browse to the script location. Then run the following command. 
 
